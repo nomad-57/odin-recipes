@@ -1,4 +1,4 @@
-This is a repo hosts the projects I'm given while studying the javascript path at [The Odin Project](www.theodinproject.com)
+This is a repo hosts the projects I'm given while studying towards the javascript path at [The Odin Project](www.theodinproject.com)
 
 At the current moment, I'm reaching the end of the HTML part of the Foundations course, CSS and Javascript comes after this.
 
